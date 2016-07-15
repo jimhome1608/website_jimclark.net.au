@@ -78,8 +78,9 @@
 						<div class="wow" data-wow-duration="1500ms" data-wow-delay="100ms">
                         <h1 class="carouselText1 text-left wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="150ms">The situation is hopeless.<br>We must take the next step.</h1>
 						  <p class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
-                             Bootstrap is completely free to download! Bootstrap Text Bootstrap Tables....                       
-                             Bootstrap Button Groups Total Control	Bootstrap allows you to group a series of buttons together (on a single line) in a button group.
+                             Pau Casals i Defilló, better known in some countries as Pablo Casals, was a Spanish cellist and conductor from Catalonia.<br>
+							 Born: December 29, 1876, El Vendrell, Spain<br>
+							 Died: October 22, 1973, San Juan, Puerto Rico<br>
                           </p>
                             <br/>
                            <div class="text-left buttonleft hidden-xs">
@@ -160,25 +161,9 @@
                     <div class="col-md-6 col-sm-4  hidden-xs animated">                                      
 						<img src="img/slider/slide1-1.png" alt="" class="slide1-2 wow fadeInLeft img-responsive"/>
 					</div>
-                    <div class="col-md-6 col-sm-8 col-xs-12 animated">					
-						<div class="wow" data-wow-duration="1500ms" data-wow-delay="100ms">
-                         <br />
-							<h1 class="carouselText1 col-gapall wow zoomIn" data-wow-duration="1500ms" data-wow-delay="500ms">Jim Clark</h1>
-							<br />
-                            <ul class="list-unstyled car-mediumtext">
-                            <li class="wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="100ms"><i class="fa fa-check-square wow fadeInDown" data-wow-duration="1500ms" data-wow-delay="100ms"></i> 
-							Not an Axe Murderer
-							</li>
-                            <li class="wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="500ms"><i class="fa fa-check-square wow fadeInDown" data-wow-duration="1500ms" data-wow-delay="100ms"></i>
-                            Reasonably Rational
-                            </li>
-                            <li class="wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="1000ms"><i class="fa fa-check-square wow fadeInDown" data-wow-duration="1500ms" data-wow-delay="100ms"></i>
-                            Generally Civilised
-                            </li>
-                            </ul>
-                            <br />                         
-						</div>						
-					</div>		
+					<div class="col-md-6 col-sm-4  hidden-xs animated">                                      
+						<img src="img/ZeusHunting.jpg" alt="" class="slide1-2 wow fadeInLeft img-responsive"/>
+					</div>  
                 </div>
            </div>
            </div>
@@ -203,7 +188,7 @@
       <div class="col-md-4 col-sm-6 services"> <span class="icon icon-briefcase"></span>
         <div class="services-content">
           <h5>corporate identity</h5>
-          <p> Bootstrap is completely free to download! Bootstrap Text Bootstrap Tables.... Bootstrap Button Groups Total Control	Bootstrap allows you to group a series of buttons together (on a single line) in a button group.</p>
+          <p> ztstrap Tables.... Bootstrap Button Groups Total Control	Bootstrap allows you to group a series of buttons together (on a single line) in a button group.</p>
         </div>
       </div>
       <div class="col-md-4 col-sm-6 services"> <span class="icon icon-tools"></span>
